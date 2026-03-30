@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-label="Design Spec Plugin logo">
+  <rect width="320" height="96" rx="20" fill="#EFF6FF"/>
+  <rect x="16" y="16" width="64" height="64" rx="16" fill="#2563EB"/>
+  <path d="M31 40h34M31 54h24M31 68h16" stroke="#EFF6FF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="66" cy="68" r="7" fill="#BFDBFE"/>
+  <text x="100" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1E3A8A">Design Spec Plugin</text>
+</svg>

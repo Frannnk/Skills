@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Design Spec Plugin icon">
+  <rect width="128" height="128" rx="28" fill="#2563EB"/>
+  <rect x="26" y="28" width="76" height="72" rx="12" fill="#EFF6FF"/>
+  <path d="M42 50h44M42 66h30M42 82h20" stroke="#2563EB" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="88" cy="82" r="10" fill="#1D4ED8"/>
+</svg>

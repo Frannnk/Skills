@@ -1,0 +1,51 @@
+{
+  "name": "design-spec-plugin",
+  "version": "0.2.0",
+  "description": "A local Codex plugin that encodes a complete SaaS design spec and page rules for future UI generation.",
+  "author": {
+    "name": "Frannnk",
+    "email": "noreply@example.com",
+    "url": "https://example.com"
+  },
+  "homepage": "https://example.com/saas-design-spec-plugin",
+  "repository": "https://example.com/saas-design-spec-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "design-system",
+    "design-spec",
+    "ui-rules",
+    "saas",
+    "dashboard",
+    "admin-ui",
+    "figma"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks.json",
+  "mcpServers": "./.mcp.json",
+  "apps": "./.app.json",
+  "interface": {
+    "displayName": "SaaS Design Spec Plugin",
+    "shortDescription": "Generate enterprise SaaS interfaces from a local spec.",
+    "longDescription": "A local plugin that packages a complete SaaS design specification, component constraints, and page archetypes so Codex can generate polished enterprise platform screens with stable visual and structural consistency.",
+    "developerName": "Frannnk",
+    "category": "Design",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Design Guidance",
+      "SaaS Page Patterns"
+    ],
+    "websiteURL": "https://example.com/saas-design-spec-plugin",
+    "privacyPolicyURL": "https://example.com/privacy",
+    "termsOfServiceURL": "https://example.com/terms",
+    "defaultPrompt": [
+      "Create a workplace dashboard for a SaaS platform.",
+      "Review this admin UI against my SaaS design spec.",
+      "Turn this feature brief into a polished SaaS page."
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}
