@@ -39,6 +39,7 @@ If you are using Codex locally, point it at `design-spec-plugin` as a local plug
 
 Useful entry files:
 
+- `INSTALL.md`
 - `design-spec-plugin/README.md`
 - `design-spec-plugin/QUICK_START.md`
 - `design-spec-plugin/PLUGIN_CAPABILITIES.md`
