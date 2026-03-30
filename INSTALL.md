@@ -35,6 +35,7 @@ design-spec-plugin
 
 If this is your first time using the plugin, start with:
 
+- `COMPATIBILITY.md`
 - `design-spec-plugin/README.md`
 - `design-spec-plugin/QUICK_START.md`
 - `design-spec-plugin/PLUGIN_CAPABILITIES.md`
@@ -97,3 +98,4 @@ Check:
 
 - This repository is structured for local plugin usage first.
 - Metadata URLs inside the plugin manifest currently use placeholder website links and can be replaced later.
+- If you want to use the repository in Claude, Cursor, or another AI tool, read `COMPATIBILITY.md` first.
