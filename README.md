@@ -94,13 +94,3 @@ See:
 详细说明见：
 
 - `COMPATIBILITY.md`
-
-## Notes / 说明
-
-- The plugin is packaged as a local Codex plugin.
-- Metadata for homepage and repository currently uses placeholder URLs and can be replaced later with the final public links.
-- The plugin content is written as a neutral SaaS design system package and does not expose source-system branding in the public-facing rules.
-
-- 这个插件当前以本地 Codex 插件形式组织。
-- `plugin.json` 里的主页和仓库地址目前仍是占位 URL，后续可以替换成真实公开链接。
-- 插件内容已经整理成中性的 SaaS 设计规范包，不会在公开规则里暴露参考系统品牌。
